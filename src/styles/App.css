@@ -1,0 +1,33 @@
+/* Base Application Styles */
+html,body{
+  width: 100%;
+  height: 100%;
+  background: #222;
+}
+
+/* stage -- start */
+/* stage -- end */
+
+/* image -- start */
+.img-sec{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #ddd
+}
+
+.img-figure{
+
+  width: 700px;
+  height: 340px;
+  padding: 20px 0;
+
+  background: #fff;
+  text-align: center;
+}
+
+
+/* image -- end */
+
+/* controller -- start */
+/* controller -- end */
